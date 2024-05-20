@@ -1,4 +1,4 @@
 ---
-- hosts: servers
+- hosts: all
   roles:
     - stdevel.landscape.server
